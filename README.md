@@ -25,7 +25,8 @@ Minha experiência cobre todo o ciclo de desenvolvimento, com especialização n
 
 ---
 <b>
-##📚 Minha Jornada academia <br>
+📚 Minha Jornada academia <br>
+</b>
 
 Faculdade de Análise e Desenvolvimento de Sistemas (ADS) – Centro Universitário Internacional Uninter (2025 - Em andamento)
 
@@ -44,7 +45,6 @@ Sites profissionais e responsivos usando HTML, CSS, PHP, Apache e MySQL.
 Curso Operador de Computador - Senac (2021)
 
 Configuração de sistemas operacionais, manutenção de computadores e suporte ao usuário.
-</b>
 
 ### Experiência Profissional (Foco e Expertise)
 
