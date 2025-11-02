@@ -25,8 +25,7 @@ Minha experiência cobre todo o ciclo de desenvolvimento, com especialização n
 
 ---
 <b>
-📚 Minha Jornada de Educação e Experiência
-Educação
+📚 Minha Jornada academia <br>
 
 Faculdade de Análise e Desenvolvimento de Sistemas (ADS) – Centro Universitário Internacional Uninter (2025 - Em andamento)
 
